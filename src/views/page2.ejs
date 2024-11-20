@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Carrusel con galería sincronizada y cuadrícula">
+  <title>Pagina2</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<!-- ********************* NavBar *********************-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark"> 
+  <div class="container-fluid d-flex justify-content-end">
+    <!-- Botón de idioma -->
+    <button class="btn btn-outline-light me-2 d-flex align-items-center" id="btn-language">
+      <span class="me-2">
+        <i class="bi bi-globe2"></i>
+      </span>
+      <span id="language-text">Español</span>
+      <span class="ms-2">&#9660;</span>
+    </button>
+
+    <!--Botón de menú-->
+    <button class="btn btn-light d-flex align-items-center" id="btn-menu">
+      <span class="me-2">
+        <i class="bi bi-list"></i>
+      </span>
+      <span class="menu-text d-none d-sm-inline">Menú</span>
+    </button>
+  </div>
+</nav>
+
+<!-- *********************Imagen********************* -->
+<div class="bg-image text-white" style="background-image: url('../image/Ruta1/1.jpg'); background-size: cover; background-position: center; height: 20vh;">
+  <div class="overlay d-flex flex-column justify-content-end h-100">
+    <div class="bottom-shadow w-100">
+      <div class="p-3">
+        <h1 class="display-4 fw-bold">Entrada Principal</h1>
+        <p class="lead">Una obra arquitectónica de valor histórico y cultural</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--*********************INICIO Barra de Navegación *********************-->
+<nav class="navbar navbar-dark bg-dark sticky-top">
+  <div class="container-fluid">
+      <ul class="nav nav-tabs justify-content-end w-100" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation">
+              <button class="nav-link active d-flex align-items-center" id="info-tab" data-bs-toggle="tab" data-bs-target="#info" type="button" role="tab" aria-controls="info" aria-selected="true">
+                  <i class="bi bi-info-circle me-2"></i> INFO
+              </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link d-flex align-items-center" id="galeria-tab" data-bs-toggle="tab" data-bs-target="#galeria" type="button" role="tab" aria-controls="galeria" aria-selected="false">
+                <i class="bi bi-images me-2"></i> GALERIA
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+              <button class="nav-link d-flex align-items-center" id="alerts-tab" data-bs-toggle="tab" data-bs-target="#alerts" type="button" role="tab" aria-controls="alerts" aria-selected="false">
+                  <i class="bi bi-exclamation-triangle me-2"></i> ALERTS <span class="badge bg-danger ms-2">3</span>
+              </button>
+          </li>
+          <li class="nav-item" role="presentation">
+              <button class="nav-link d-flex align-items-center" id="maps-tab" data-bs-toggle="tab" data-bs-target="#maps" type="button" role="tab" aria-controls="maps" aria-selected="false">
+                  <i class="bi bi-geo-alt me-2"></i> MAPS
+              </button>
+          </li>
+      </ul>
+  </div>
+</nav>
+<!--*********************FINAL Barra de Navegación *********************-->
+
+<!--*********************INICIO Contenido de las Pestañas*********************-->
+<div class="tab-content border p-4 bg-light" id="myTabContent">
+  <!--Contenido de la Pestaña INFO -->
+  <div class="tab-pane fade show active" id="info" role="tabpanel" aria-labelledby="info-tab">
+    <div class="container my-4">
+      <div class="accordion" id="accordionContainer" data-json="/data/information/page2.json"></div>
+    </div>
+  </div>
+
+  <!--Contenido de la Pestaña ALERTS -->
+  <div class="tab-pane fade" id="alerts" role="tabpanel" aria-labelledby="alerts-tab">
+      
+  </div>
+  <!--Contenido de la Pestaña MAPS -->
+  <div class="tab-pane fade" id="maps" role="tabpanel" aria-labelledby="maps-tab">
+  
+  </div>
+
+  <!-- *********************Inicio Contenido de la Pestaña Galeria ********************* -->
+  <div class="tab-pane fade" id="galeria" role="tabpanel" aria-labelledby="galeria-tab">
+    <!-- Contenedor principal con flex y grid -->
+    <div class="main-container" data-image-path="/api/images?page=page2">
+      <!-- Contenedor del carrusel -->
+      <div class="carousel-container" >
+        <div id="carouselExample" class="carousel slide" data-bs-interval="3000" data-bs-ride="carousel">
+              <!-- Indicadores dinámicos -->
+              <div class="carousel-indicators" id="carousel-indicators"></div>
+              <!-- Imágenes dinámicas -->
+              <div class="carousel-inner" id="carousel-inner"></div>
+              <!-- Controles de navegación -->
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Anterior</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Siguiente</span>
+              </button>
+          </div>
+          <!-- Galería superpuesta -->
+          <div class="gallery-overlay" id="galleryOverlay"></div>
+      </div>
+      
+      <!-- Galería en cuadrícula -->
+      <div class="gallery-grid-wrapper" id="galleryGridWrapper">
+          <div class="gallery-grid" id="galleryGrid"></div>
+      </div>
+
+    </div>
+
+    <!-- Espaciador -->
+    <div class="spacer"></div>
+
+  </div><!--*********************Final Contenido de la Pestaña Galeria ********************* -->
+  
+</div><!--*********************Final Contenido de las Pestañas********************* -->
+
+
+<footer class="bg-dark text-light py-4">
+  <div class="container">
+    <div class="row">
+      <!-- Sección de información -->
+      <div class="col-md-4">
+        <h5>Sobre el Cementerio</h5>
+        <p>
+          El Cementerio Municipal de Punta Arenas es un lugar de gran valor histórico y cultural, conocido por su belleza y por ser un punto de interés turístico en la región.
+        </p>
+      </div>
+      
+      <!-- Sección de contacto -->
+      <div class="col-md-4">
+        <h5>Contacto</h5>
+        <ul class="list-unstyled">
+          <li><i class="fas fa-map-marker-alt"></i> Av. Bulnes 949, Punta Arenas</li>
+          <li><i class="fas fa-phone"></i> +56 61 2 123 456</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row mt-3">
+      <div class="col text-center">
+        <p class="mb-0">&copy; 2024 Cementerio Municipal de Punta Arenas</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/main.js" type="module"></script>
+</body>
+</html>

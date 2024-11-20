@@ -1,0 +1,53 @@
+[
+{
+    "id": "biografia-contexto",
+    "title": "Biografía y Contexto de José Menéndez",
+    "content": [
+    {
+        "subtitle": "Orígenes y Familia",
+        "description": "José Menéndez nació el 2 de noviembre de 1846 en Asturias, España. Contrajo matrimonio con María Behety Chapital, de nacionalidad uruguaya y ascendencia vasca y francesa. Juntos tuvieron nueve hijos, consolidando una familia influyente en la región."
+    },
+    {
+        "subtitle": "Actividad Empresarial",
+        "description": "En 1876, Menéndez comenzó su negocio ganadero, transportando ovejas desde las Islas Malvinas a la Estancia San Gregorio, que aún pertenece a sus descendientes. Fue un empresario prominente que contribuyó significativamente al desarrollo económico de la región."
+    },
+    {
+        "subtitle": "Contribuciones a la Comunidad",
+        "description": "Menéndez realizó importantes donaciones, como el Monumento central de la Plaza de Punta Arenas, reflejando su influencia y compromiso con el desarrollo de la ciudad."
+    }
+    ]
+},
+{
+    "id": "mausoleo",
+    "title": "Detalles del Mausoleo de José Menéndez",
+    "content": [
+    {
+        "subtitle": "Diseño Interior",
+        "description": "El mausoleo de José Menéndez destaca por sus vitrales, que representan a los santos con cuyos nombres fueron bautizados sus hijos. Además, incluye un altar elaborado en mármol de Carrara, realzando su opulencia."
+    },
+    {
+        "subtitle": "Significado y Representación",
+        "description": "El mausoleo simboliza el legado y la prominencia de la familia Menéndez-Behety en la región, siendo un punto clave en la memoria histórica del Cementerio Municipal de Punta Arenas."
+    }
+    ]
+},
+{
+    "id": "criticas-historicas",
+    "title": "Críticas Históricas",
+    "content": [
+    {
+        "subtitle": "Implicación en la Matanza de Indígenas",
+        "description": "Como otros empresarios de la época, a José Menéndez se le atribuyen responsabilidades en la matanza de pueblos indígenas, un aspecto oscuro de su legado que ha sido objeto de críticas en la historiografía."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "El mausoleo de José Menéndez es un símbolo de la riqueza y la influencia de una de las familias más importantes de la Patagonia. Mientras su diseño opulento resalta su legado, también invita a reflexionar sobre los aspectos controvertidos de su historia, marcados por las tensiones entre el desarrollo económico y la justicia social."
+    }
+    ]
+}
+]

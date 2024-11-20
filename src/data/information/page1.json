@@ -1,0 +1,67 @@
+[
+  {
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+      {
+        "description": "La entrada principal del Cementerio Municipal de Punta Arenas es un emblema de la historia y cultura local, enriquecida por su arquitectura neobarroca, su vínculo con Sara Braun y los eventos significativos que han marcado su uso. Es un lugar donde convergen el arte, la memoria y la espiritualidad, convirtiéndolo en un sitio de gran valor patrimonial."
+      }
+    ]
+  },
+  {
+    "id": "arquitectura-diseno",
+    "title": "Arquitectura y Diseño",
+    "content": [
+      {
+        "subtitle": "Estilo Arquitectónico",
+        "description": "La entrada principal del Cementerio Municipal de Punta Arenas presenta un estilo ecléctico con marcadas influencias neobarrocas, combinando elementos ornamentales de diversas corrientes arquitectónicas. Este estilo es característico por su mezcla armónica y detallada, lo que otorga un carácter solemne y artístico al lugar."
+      },
+      {
+        "subtitle": "Construcción del Pórtico",
+        "description": "La construcción de este imponente pórtico se llevó a cabo entre los años 1918 y 1923, siendo diseñada por los arquitectos Trouvé y Ciscutti. Los ornamentos decorativos, que destacan por su exquisito detalle, fueron realizados por el artista Pascual Borich. El pórtico incluye una capilla central y dos accesos principales, formando una composición arquitectónica única."
+      }
+    ]
+  },
+  {
+    "id": "historia-sara-braun",
+    "title": "Historia y Contribución de Sara Braun",
+    "content": [
+      {
+        "subtitle": "Orígenes del Cementerio",
+        "description": "Inaugurado en 1894, el cementerio incluye avenidas de árboles centenarios que fueron plantados a finales del siglo XIX. Este elemento natural añade un ambiente sereno y majestuoso al espacio."
+      },
+      {
+        "subtitle": "Donación de Sara Braun",
+        "description": "Sara Braun, una destacada figura de la región, jugó un papel clave en el desarrollo del cementerio. Tras enviudar en 1893, donó la entrada principal como muestra de respeto y devoción hacia su esposo. En 1896, los restos de su esposo fueron trasladados desde el antiguo cementerio al mausoleo familiar, una estructura suntuosa construida específicamente para él."
+      }
+    ]
+  },
+  {
+    "id": "eventos-significativos",
+    "title": "Eventos Significativos",
+    "content": [
+      {
+        "subtitle": "Funeral de Sara Braun",
+        "description": "Durante el funeral de Sara Braun, el 27 de enero de 1956, se abrió por primera vez la puerta principal del cementerio, cumpliendo así un deseo expreso de la benefactora. Según un artículo del Diario La Prensa Austral de ese día, existe la creencia popular de que esta fue la única ocasión en la que un funeral ingresó por esta entrada. Sin embargo, registros históricos indican que se utilizó en varias oportunidades posteriores."
+      }
+    ]
+  },
+  {
+    "id": "elementos-notables",
+    "title": "Elementos y Características Notables",
+    "content": [
+      {
+        "subtitle": "Capilla y Entradas",
+        "description": "En el centro de la estructura se encuentra una capilla, la cual constituye un espacio de recogimiento espiritual. Las puertas de ingreso a los costados complementan el diseño funcional y simbólico del pórtico."
+      },
+      {
+        "subtitle": "Mausoleo y Ornamentación",
+        "description": "El mausoleo construido por Sara Braun para su esposo es uno de los puntos más destacados del cementerio. Representa el legado histórico y cultural de la familia Braun en la región, mientras que los ornamentos decorativos de Pascual Borich enriquecen el diseño del conjunto."
+      },
+      {
+        "subtitle": "Avenidas de Árboles",
+        "description": "Las avenidas de árboles, plantadas en el siglo XIX, no solo son un elemento paisajístico, sino que también refuerzan el ambiente solemne y respetuoso del lugar."
+      }
+    ]
+  }
+]

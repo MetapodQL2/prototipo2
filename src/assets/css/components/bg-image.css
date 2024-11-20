@@ -1,0 +1,11 @@
+.bg-image {
+    position: relative;
+}
+.bg-image .overlay {
+    background: rgba(0, 0, 0, 0.5); /* Oscurece ligeramente la imagen */
+}
+.bottom-shadow {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent); /* Sombra degradada */
+    width: 100%; /* Ocupa todo el ancho de la imagen */
+    height: 50%; /* Ocupa la mitad inferior de la imagen */
+}

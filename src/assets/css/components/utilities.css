@@ -1,0 +1,36 @@
+/* Espaciador Adicional */
+.spacer {
+  height: 600px;
+}
+
+/* Clase para Ocultar Elementos */
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+/* Sombras */
+.shadow-light {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.shadow-dark {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Texto Centrado */
+.text-center {
+  text-align: center;
+}
+
+/* Clases de Fondo */
+.bg-dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.bg-light {
+  background-color: #f8f9fa;
+  color: #000;
+}

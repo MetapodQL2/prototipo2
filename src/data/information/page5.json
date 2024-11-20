@@ -1,0 +1,43 @@
+[
+{
+    "id": "biografia-sara-braun",
+    "title": "Biografía y Contexto de Sara Braun",
+    "content": [
+    {
+        "subtitle": "Origen y Migración",
+        "description": "Sara Braun nació en Curlandia (actual Letonia) en 1862, en una familia de origen judeo-ruso y alemán báltico. Emigraron a Punta Arenas en 1874 debido al antisemitismo en la Zona de Asentamiento."
+    },
+    {
+        "subtitle": "Unión con José Nogueira",
+        "description": "En 1887, Sara Braun se casó con José Nogueira, un importante empresario naviero portugués. Este matrimonio marcó el inicio de una vida privilegiada en Punta Arenas y consolidó su influencia en la región."
+    },
+    {
+        "subtitle": "Contribuciones y Legado",
+        "description": "Sara Braun y su familia se destacaron por su impacto económico y social en la región. Desde su llegada, aprovecharon su educación formal para ascender socialmente y contribuir al desarrollo local."
+    }
+    ]
+},
+{
+    "id": "detalles-mausoleo",
+    "title": "Detalles del Mausoleo de Sara Braun",
+    "content": [
+    {
+        "subtitle": "Diseño y Simbolismo",
+        "description": "El mausoleo de Sara Braun es una suntuosa construcción que refleja su estatus social. Contiene los restos de Sara Braun (fallecida en 1955) y de otros familiares. La tumba de su esposo, José Nogueira, se encuentra en una sección exterior, marcada por una estatua de un ángel."
+    },
+    {
+        "subtitle": "Significado del Mausoleo",
+        "description": "El mausoleo representa el poder y la riqueza de la familia Braun, así como su influencia duradera en Punta Arenas. Es un punto destacado en el Cementerio Municipal, tanto por su diseño como por su historia."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "El Mausoleo de Sara Braun es un símbolo de la riqueza y la influencia de una de las familias más prominentes de Punta Arenas. Su historia refleja el impacto de la migración en el desarrollo de la región, mientras que su diseño arquitectónico destaca su legado cultural y económico."
+    }
+    ]
+}
+]

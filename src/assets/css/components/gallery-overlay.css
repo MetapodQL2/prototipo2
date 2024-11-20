@@ -1,0 +1,30 @@
+/* Galería Superpuesta */
+.gallery-overlay {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-x: auto;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    width: 100%;
+    position: relative;
+  }
+  
+  /* Miniaturas de la Galería Superpuesta */
+  .gallery-overlay img {
+    width: 80px;
+    height: 80px;
+    margin: 0 5px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: transform 0.3s ease, border 0.3s ease;
+  }
+  
+  /* Miniatura Activa */
+  .gallery-overlay img.active {
+    border: 3px solid yellow;
+    transform: scale(1.1);
+  }
+  

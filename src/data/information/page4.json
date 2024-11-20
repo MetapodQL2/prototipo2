@@ -1,0 +1,65 @@
+[
+{
+    "id": "contexto-general",
+    "title": "Contexto General de la Ruta Inglesa",
+    "content": [
+    {
+        "subtitle": "Contribuciones de la Comunidad Británica",
+        "description": "La Ruta Inglesa en el Cementerio Municipal de Punta Arenas resalta la influencia cultural, social y económica de la comunidad británica en la región."
+    },
+    {
+        "subtitle": "Importancia Histórica",
+        "description": "Este sector reúne tumbas y monumentos de figuras británicas que marcaron eventos significativos en la historia de la Patagonia, desde la navegación hasta el desarrollo industrial."
+    }
+    ]
+},
+{
+    "id": "personajes-destacados",
+    "title": "Personajes Destacados",
+    "content": [
+    {
+        "subtitle": "Sir Walter Baldwin Spencer",
+        "description": "Antropólogo y biólogo británico (1860-1929) que estudió a los aborígenes australianos y viajó a la Patagonia para investigar la etnia Yámana antes de fallecer en la Isla Navarino."
+    },
+    {
+        "subtitle": "Charles Amherst Milward",
+        "description": "Cónsul británico en Punta Arenas (1859-1928) que colaboró en la extracción y venta de restos del Milodón al Museo de Londres, y fue mencionado en el libro 'In Patagonia' de Bruce Chatwin, incentivando el turismo en la región."
+    },
+    {
+        "subtitle": "James Charles Robins",
+        "description": "Ingeniero británico que trabajó en la empresa Braun y Blanchard y denunció abusos contra los aborígenes. También participó en el desarrollo industrial y educativo de Punta Arenas."
+    },
+    {
+        "subtitle": "Reverendo John Williams",
+        "description": "Misionero anglicano que trabajó con los Yámanas en Cabo de Hornos y fundó el Saint James College en Punta Arenas. Murió en 1936 y es recordado por su labor religiosa y educativa."
+    }
+    ]
+},
+{
+    "id": "monumentos-y-sepulturas",
+    "title": "Monumentos y Sepulturas Relevantes",
+    "content": [
+    {
+        "subtitle": "Sepultura de la Dotación de la Nave S.M. Británica DOTEREL",
+        "description": "Honra a los tripulantes fallecidos en la explosión de esta cañonera británica en 1881, cuyos restos fueron sepultados con honores en 1936."
+    },
+    {
+        "subtitle": "Monolito de la British Force",
+        "description": "Construido en mármol negro, conmemora a los inmigrantes británicos caídos en ambas Guerras Mundiales, representando el sacrificio de esta comunidad por el Imperio Británico."
+    },
+    {
+        "subtitle": "Monolito en Honor a Thomas Fenton",
+        "description": "Homenaje al médico británico que falleció ejerciendo su profesión en 1878, recordado por su entrega y dedicación."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "La Ruta Inglesa en el Cementerio Municipal de Punta Arenas es un reflejo del legado británico en la región, marcado por sus contribuciones culturales, económicas y sociales. A través de sus monumentos y personajes destacados, esta ruta narra historias de exploración, desarrollo y sacrificio, convirtiéndose en un homenaje a esta comunidad inmigrante."
+    }
+    ]
+}
+]

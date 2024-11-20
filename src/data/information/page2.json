@@ -1,0 +1,75 @@
+[
+{
+    "id": "introduccion-contexto",
+    "title": "Introducción y Contexto General",
+    "content": [
+    {
+        "subtitle": "Extensión y Creación del Cementerio",
+        "description": "El Cementerio Municipal de Punta Arenas abarca 8 hectáreas y fue inaugurado en 1894 para atender las necesidades de una ciudad en constante crecimiento, tras la limitación del anterior cementerio, que operó solo por 30 años."
+    },
+    {
+        "subtitle": "Punta Arenas como Polo de Desarrollo",
+        "description": "Ubicada entre los océanos Atlántico y Pacífico, Punta Arenas floreció como un centro económico a finales del siglo XIX, destacándose en la ganadería, la navegación y la extracción de recursos como cueros y oro."
+    },
+    {
+        "subtitle": "Influencia Europea y Sociedad Local",
+        "description": "La arquitectura y el desarrollo social de la ciudad reflejaban su conexión con el comercio marítimo, destacándose balcones y terrazas que observaban la llegada de barcos europeos. Las familias adineradas aportaron al crecimiento local con donaciones importantes, como colegios, monumentos y el pórtico central del cementerio."
+    }
+    ]
+},
+{
+    "id": "adolf-amandus-andressen",
+    "title": "Adolf Amandus Andressen",
+    "content": [
+    {
+        "subtitle": "Biografía y Logros",
+        "description": "Navegante noruego-chileno (1872-1940) que izó la bandera chilena en la Antártica en 1907, reafirmando la soberanía nacional sobre el territorio. Fue fundador de la Sociedad Ballenera y se dedicó a la caza de lobos marinos."
+    },
+    {
+        "subtitle": "Reconocimiento y Legado",
+        "description": "Su tumba en el cementerio recuerda su contribución histórica a la región, destacándose como una figura clave en la expansión marítima chilena."
+    }
+    ]
+},
+{
+    "id": "inmigracion-diversidad",
+    "title": "Inmigración y Diversidad Cultural",
+    "content": [
+    {
+        "subtitle": "Transformación de Magallanes",
+        "description": "En el siglo XIX, Magallanes pasó de ser un penal militar a un asentamiento de inmigrantes, impulsado por incentivos del gobierno chileno desde 1867."
+    },
+    {
+        "subtitle": "Olas Migratorias",
+        "description": "Las primeras oleadas migratorias incluyeron a franceses y suizos, seguidos de ingleses, croatas, españoles, italianos y portugueses. En 1885 había 755 extranjeros en la región, cifra que aumentó a 7,660 en 1914 durante el auge ganadero (1880-1920)."
+    },
+    {
+        "subtitle": "Áreas de Inmigrantes en el Cementerio",
+        "description": "Las sepulturas en el área central del cementerio pertenecen a colonias italianas, españolas, francesas y croatas, ligadas principalmente a la ganadería y al desarrollo económico de la región."
+    }
+    ]
+},
+{
+    "id": "arboleda",
+    "title": "La Arboleda",
+    "content": [
+    {
+        "subtitle": "Avenidas de Árboles Centenarios",
+        "description": "El cementerio cuenta con avenidas de cipreses plantados a finales del siglo XIX. Estas especies incluyen Lawson, ingleses y macrocarpa, sumando un total de 639 árboles."
+    },
+    {
+        "subtitle": "Simbolismo Histórico y Mitológico",
+        "description": "La presencia de cipreses sigue una tradición europea basada en mitos griegos y romanos. Su forma ascendente simboliza la conexión entre la tierra y el cielo, guiando las almas hacia su destino final."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "El área frente a la Cruz Central del Cementerio Municipal de Punta Arenas es un lugar cargado de historia y simbolismo. Desde las contribuciones de inmigrantes hasta la memoria de figuras como Adolf Amandus Andressen, este sector refleja el legado multicultural y la riqueza histórica de Magallanes."
+    }
+    ]
+}
+]

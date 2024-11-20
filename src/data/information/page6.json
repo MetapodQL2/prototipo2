@@ -1,0 +1,54 @@
+[
+{
+    "id": "biografia-antonio-soto",
+    "title": "Biografía y Contexto de Antonio Gonzalo Soto Canalejo",
+    "content": [
+    {
+        "subtitle": "Orígenes y Vida Temprana",
+        "description": "Antonio Gonzalo Soto Canalejo, conocido como 'El Gallego Soto', nació el 8 de octubre de 1897 en Ferrol, España. Llegó a América a los 17 años como parte de un grupo teatral y se estableció en la Patagonia, donde comenzó su carrera como líder sindical."
+    },
+    {
+        "subtitle": "Rol en la Patagonia Rebelde",
+        "description": "Fue secretario general de la Sociedad Obrera de Gallegos y lideró huelgas en la Patagonia argentina en 1921, exigiendo mejoras laborales. Escapó a Chile tras la represión militar y nunca fue capturado por las autoridades."
+    },
+    {
+        "subtitle": "Contribuciones en Punta Arenas",
+        "description": "En Punta Arenas, manejó un hotel que se convirtió en un punto de reunión para libertarios e intelectuales. Fundó el Centro Republicano Español, el Centro Gallego y una filial de la Cruz Roja. Inspiró la primera huelga estudiantil en la ciudad en apoyo al aumento de los salarios docentes."
+    }
+    ]
+},
+{
+    "id": "ruta-cementerio-sector-norte",
+    "title": "Ruta Cementerio - Sector Norte",
+    "content": [
+    {
+        "subtitle": "Monumento al Indio Desconocido",
+        "description": "El recorrido culmina en el Monumento al Indio Desconocido, un homenaje a los pueblos originarios de la región, ubicado en un lugar destacado del cementerio."
+    }
+    ]
+},
+{
+    "id": "sepulturas-destacadas",
+    "title": "Sepulturas Destacadas",
+    "content": [
+    {
+        "subtitle": "José Grimaldi Acotto",
+        "description": "Escritor nacido en Punta Arenas en 1911, conocido por su poesía autóctona. Su poema 'El ovejero de mi tierra' inspiró el Monumento al Ovejero, y su legado se preserva en el Museo Regional de Magallanes."
+    },
+    {
+        "subtitle": "Familia Eberhard Brandt",
+        "description": "Herman Eberhard Schmidt, explorador alemán, descubrió los restos del milodón en Última Esperanza. Su legado incluye la promoción del turismo y la historia científica en la región."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "El sector sur del Cementerio Municipal de Punta Arenas destaca por albergar figuras históricas como Antonio Soto y José Grimaldi, y explorar la riqueza cultural y científica de la región. El recorrido culmina con un homenaje a los pueblos originarios en el Monumento al Indio Desconocido."
+    }
+    ]
+}
+]
+  

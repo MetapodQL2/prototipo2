@@ -1,0 +1,54 @@
+[
+{
+    "id": "contexto-indio-desconocido",
+    "title": "Contexto General del Indio Desconocido",
+    "content": [
+    {
+        "subtitle": "Homenaje a los Pueblos Originarios",
+        "description": "El monumento al Indio Desconocido fue erigido como un reconocimiento a las razas aborígenes de la región, simbolizando su sufrimiento y legado. Se ha convertido en un lugar de culto popular, atribuyéndosele poderes sobrenaturales y favores, evidenciados por las placas de agradecimiento colocadas a su alrededor."
+    },
+    {
+        "subtitle": "Inauguración del Monumento",
+        "description": "Fundido en bronce por Edwin Neracher en la fundición Milward, el monumento fue inaugurado el 18 de diciembre de 1969 y ocupa un lugar destacado en la entrada del Cementerio Municipal de Punta Arenas."
+    }
+    ]
+},
+{
+    "id": "historias-origen",
+    "title": "Historias del Origen del Indio Desconocido",
+    "content": [
+    {
+        "subtitle": "Primera Historia",
+        "description": "En 1929, durante una expedición a la Isla Diego de Almagro, David Leal fue asesinado tras un enfrentamiento con aborígenes. M. Kraviet, su compañero, sobrevivió pero dejó herido a un indígena. Ambos cadáveres fueron trasladados en un ataúd improvisado. Al inaugurar el monumento en 1969, se descubrió que había dos osamentas en el féretro."
+    },
+    {
+        "subtitle": "Segunda Historia",
+        "description": "Según otra versión, Kraviet asesinó a Leal para quedarse con los beneficios económicos de las pieles de lobo que un indígena había llevado al campamento. Los restos de Leal fueron enviados a Lota, mientras que el indígena fue enterrado en Punta Arenas. En 1974, al trasladar el monumento, se confirmó nuevamente la presencia de dos osamentas."
+    }
+    ]
+},
+{
+    "id": "simbolismo-y-culto",
+    "title": "Simbolismo y Culto Popular",
+    "content": [
+    {
+        "subtitle": "Significado del Monumento",
+        "description": "El Indio Desconocido simboliza la memoria de los pueblos originarios y los eventos trágicos de la colonización en la Patagonia. Es un reflejo de la historia compleja de la región."
+    },
+    {
+        "subtitle": "Lugar de Veneración",
+        "description": "El monumento ha trascendido su propósito histórico para convertirse en un lugar espiritual donde los visitantes piden favores y ofrecen agradecimientos, consolidando su importancia cultural."
+    }
+    ]
+},
+{
+    "id": "resumen-general",
+    "title": "Resumen General",
+    "content": [
+    {
+        "description": "El Indio Desconocido representa una mezcla de historia y mito, destacándose como un homenaje a los pueblos originarios y un punto de conexión entre la memoria histórica y el culto popular en el Cementerio Municipal de Punta Arenas."
+    }
+    ]
+}
+]
+  
